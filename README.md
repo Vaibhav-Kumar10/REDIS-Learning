@@ -1,10 +1,10 @@
 # REDIS Learning
 
-Hands-on Redis learning playground inspired by Chai aur Code — practical Node.js examples and exercises.
+Hands-on Redis learning playground inspired by [Chai aur Code](https://www.youtube.com/@chaiaurcode) — practical Node.js examples and exercises.
 
 ## Purpose
 
-This repository is built to learn Redis through small, focused examples and experiments following the "Chai aur Code" tutorials. Each numbered folder contains a self-contained example demonstrating a Redis pattern or feature (caching, pub/sub, queues, TTLs, leaderboards, etc.).
+This repository is built to learn Redis through small, focused examples and experiments following the "[Chai aur Code](https://www.youtube.com/@chaiaurcode)" REDIS tutorials. Each numbered folder contains a self-contained example demonstrating a Redis pattern or feature (caching, pub/sub, queues, TTLs, leaderboards, etc.).
 
 ## Repo structure (summary)
 
@@ -53,4 +53,4 @@ Adjust the entrypoint file (`index.js`, `api.js`, or `worker.js`) per example.
 
 ## Credits
 
-Inspired by Chai aur Code — used as the learning source and guide.
+Inspired by [Chai aur Code](https://www.youtube.com/@chaiaurcode) — used as the learning source and guide.
