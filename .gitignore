@@ -1,0 +1,50 @@
+# Node modules
+node_modules/
+**/node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.pid.lock
+
+# Coverage and reports
+coverage/
+.nyc_output/
+
+# Build outputs
+dist/
+build/
+.cache/
+.parcel-cache/
+
+# Environment files
+.env
+.env.*.local
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+
+# Next/Nuxt/Serverless/Vercel
+.next/
+.nuxt/
+.serverless/
+.vercel/
+
+# Docker overrides
+docker-compose.override.yml
